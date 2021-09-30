@@ -1,0 +1,93 @@
+html, body {
+	background-image: linear-gradient( 111.1deg,  rgba(0,20,50,1) -4.8%, rgba(50,20,20,1) 92.7%);
+}
+.row {
+	height: 100%;
+	margin: 0;
+}
+.board {
+	width: 1000px;
+	height: 75%;
+	display: grid;
+	grid-template-columns: repeat(1, 100%);
+	grid-template-rows: repeat(1, 100%);
+	grid-gap: 5px;
+	border-radius: 5px;
+}
+.square {
+	display: grid;
+	grid-template-columns: repeat(12, 8.333333%);
+	grid-template-rows: repeat(12, 8.333333%);
+	border-radius: 5px;
+	grid-gap: 5px;
+}
+.square > div {
+	position: relative;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 15px;
+	color: #eee;
+	background-color: #fff3;
+}
+.square > div:hover {
+	background-color: #fff1 !important;
+	cursor: pointer;
+}
+
+.square > div:nth-child(1) { border-top-left-radius: 5px; }
+.square > div:nth-child(12) { border-top-right-radius: 5px; }
+.square > div:nth-child(132) { border-bottom-left-radius: 5px; }
+.square > div:nth-child(144) { border-bottom-right-radius: 5px; }
+.square > div > div > img { height: 100%; }
+.square > div > div:not(.tip) {
+	position: absolute;
+	font-size: 12px;
+}
+.square > div > div.tip {
+	width: 100%;
+	height: 100%;
+}
+.square > div > div.initial {
+	bottom: 2px;
+	right: 5px;
+}
+.square > div > div.id {
+	top: -1px;
+	right: 5px;
+	font-size: 10px;
+}
+.square > div > div.type-1 {
+	top: 3px;
+	left: 3px;
+	width: 5px;
+	height: 5px;
+	border-radius: 50%;
+	background-color: #fff;
+}
+.square > div > div.type-2 {
+	top: 3px;
+	left: 10px;
+	width: 5px;
+	height: 5px;
+	border-radius: 50%;
+	background-color: #fff;
+}
+.bug{ background-color: #A6B91A !important; }
+.water{ background-color: #6390F0 !important; }
+.fairy{ background-color: #D685AD !important; }
+.electric{ background-color: #F7D02C !important; }
+.dragon{ background-color: #6F35FC !important; }
+.normal{ background-color: #A8A77A !important; }
+.flying{ background-color: #A98FF3 !important; }
+.psychic{ background-color: #F95587 !important; }
+.steel{ background-color: #B7B7CE !important; }
+.ghost{ background-color: #735797 !important; }
+.ground{ background-color: #E2BF65 !important; }
+.grass { background-color: #7AC74C !important; }
+.fire{ background-color: #EE8130 !important; }
+.fighting{ background-color: #C22E28 !important; }
+.dark{ background-color: #705746 !important; }
+.poison{ background-color: #A33EA1 !important; }
+.rock{ background-color: #B6A136 !important; }
+.ice{ background-color: #96D9D6 !important; }
