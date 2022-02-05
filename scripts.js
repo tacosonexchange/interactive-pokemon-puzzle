@@ -41,7 +41,7 @@ const rawPuzzleData = [
 		"Ferrothorn",
 		"Machop",
 		"Obstagoon",
-		"Galarian Meowth",
+		"Meowth",
 		"Alcremie",
 		"Qwilfish",
 		"Shedinja",
@@ -68,16 +68,16 @@ const rawPuzzleData = [
 		"Bulbasaur",
 		"Porygon",
 		"Joltik",
-		"Trash Wormadam",
-		"Galarian Rapidash",
+		"Wormadam-plant",
+		"Rapidash",
 		"Morgrem",
-		"Spring Deerling",
+		"Deerling",
 		"Amoonguss",
 		"Dialga",
 		"Milotic"
 	],
 	[
-		"Galarian Stunfisk",
+		"Stunfisk",
 		"Volcarona",
 		"Zweilous",
 		"Octillery",
@@ -86,7 +86,7 @@ const rawPuzzleData = [
 		"Comfey",
 		"Shuckle",
 		"Blacephalon",
-		"Alolan Muk",
+		"Muk",
 		"Simisear",
 		"Haxorus"
 	],
@@ -134,7 +134,7 @@ const rawPuzzleData = [
 	],
 	[
 		"Drilbur",
-		"Farfetch'd",
+		"Farfetchd",
 		"Marshadow",
 		"Relicanth",
 		"Floatzel",
@@ -144,7 +144,7 @@ const rawPuzzleData = [
 		"Pidgeot",
 		"Nihilego",
 		"Raichu",
-		"Mimikyu"
+		"mimikyu-disguised"
 	],
 	[
 		"Escavalier",
@@ -165,11 +165,11 @@ const rawPuzzleData = [
 		"Magearna",
 		"Meltan",
 		"Arcanine",
-		"Galarian Weezing",
+		"Weezing",
 		"Carbink",
 		"Togedemaru",
 		"Kabutops",
-		"Pumpkaboo",
+		"Pumpkaboo-average",
 		"Sandygast",
 		"Rhyperior",
 		"Dragalge"
