@@ -14,4 +14,4 @@ This is an [interactive version](https://codepen.io/tacosontitan/live/ac04aac9f2
 
 #### Screenshot
 
-![image](https://user-images.githubusercontent.com/65432314/135514794-b6a7c155-90c7-4671-8a47-ac7507aeaf41.png)
+![image](https://user-images.githubusercontent.com/43695037/174129726-8940174a-708a-4819-995d-85196e545b30.png)
