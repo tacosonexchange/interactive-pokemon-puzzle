@@ -4,6 +4,7 @@
   "description": "A simple interactive form of a puzzle posted on Stack Exchange.",
   "main": "main.js",
   "scripts": {
+    "start": "electron .",
     "test": "test"
   },
   "repository": {
