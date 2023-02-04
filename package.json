@@ -2,8 +2,9 @@
   "name": "interactive-pokemon-puzzle",
   "version": "1.0.0",
   "description": "A simple interactive form of a puzzle posted on Stack Exchange.",
-  "main": "main.js",
+  "main": "src/main.js",
   "scripts": {
+    "start": "electron .",
     "test": "test"
   },
   "repository": {

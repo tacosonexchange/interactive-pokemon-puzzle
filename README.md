@@ -1,17 +1,32 @@
+# 🧩 Welcome to the Pokémon Puzzle
+
 This is an [interactive version](https://codepen.io/tacosontitan/live/ac04aac9f2302ad97c0a2a51d7e0e90e) of [this puzzle](https://puzzling.stackexchange.com/questions/111934/my-pokemon-puzzle) containing the following information:
 
- - Sprites
- - Names (As Given)
- - Types
- - Pokédex Number
- - First letter of the Pokémon's name.
+- Sprites
+- Names (As Given)
+- Types
+- Pokédex Number
+- First letter of the Pokémon's name.
 
-#### Type Legend
+## 🚀 Getting started
+
+Clone the repository to your local machine and open it in your favorite code editor. We recommend [Visual Studio Code](https://code.visualstudio.com/). Once open in your code editor, you can run the following command:
+
+```bash
+npm install
+npm start
+```
+
+Additionally, you can use the [CodePen](https://codepen.io/tacosontitan/live/ac04aac9f2302ad97c0a2a51d7e0e90e) version.
+
+## Type Legend
+
 ![image](https://user-images.githubusercontent.com/65432314/135515946-17bc61f8-fb5f-4e1f-a38f-d1a7dafabb69.png)
 
-#### Tile Legend
+## Tile Legend
+
 ![image](https://user-images.githubusercontent.com/65432314/135517532-834dd951-d197-4588-857a-583586af393c.png)
 
-#### Screenshot
+## Screenshot
 
 ![image](https://user-images.githubusercontent.com/43695037/174129726-8940174a-708a-4819-995d-85196e545b30.png)
