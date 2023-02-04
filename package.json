@@ -1,0 +1,24 @@
+{
+  "name": "interactive-pokemon-puzzle",
+  "version": "1.0.0",
+  "description": "A simple interactive form of a puzzle posted on Stack Exchange.",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tacoexchange/interactive-pokemon-puzzle.git"
+  },
+  "keywords": [
+    "interactive",
+    "pokemon",
+    "puzzle"
+  ],
+  "author": "tacosontitan",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/tacoexchange/interactive-pokemon-puzzle/issues"
+  },
+  "homepage": "https://github.com/tacoexchange/interactive-pokemon-puzzle#readme"
+}
