@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/tacoexchange/interactive-pokemon-puzzle/issues"
   },
-  "homepage": "https://github.com/tacoexchange/interactive-pokemon-puzzle#readme"
+  "homepage": "https://github.com/tacoexchange/interactive-pokemon-puzzle#readme",
+  "devDependencies": {
+    "electron": "^22.2.0"
+  }
 }
